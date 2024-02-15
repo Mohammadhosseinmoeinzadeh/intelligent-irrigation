@@ -1,1 +1,1 @@
-![alt text]([http://url/to/img.png](https://github.com/Mohammadhosseinmoeinzadeh/intelligent-irrigation/blob/main/data%20sheet.png)https://github.com/Mohammadhosseinmoeinzadeh/intelligent-irrigation/blob/main/data%20sheet.png)
+![not image](https://github.com/Mohammadhosseinmoeinzadeh/intelligent-irrigation/blob/main/data%20sheet.png)https://github.com/Mohammadhosseinmoeinzadeh/intelligent-irrigation/blob/main/data%20sheet.png)
