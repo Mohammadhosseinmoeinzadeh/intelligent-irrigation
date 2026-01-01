@@ -72,7 +72,7 @@ Arduino-based irrigation controller supporting **single-zone** and **dual-zone**
 |------------|------|-------------|-------|
 | D10 | Digital Output | Buzzer (shared) | بیزر مشترک |
 | D11 | Digital Output | Relay / Solenoid valve – Zone 1 | رله / شیر برقی زون 1 |
-| D0 ⚠️ | Digital Output | Relay / Solenoid valve – Zone 2 | رله / شیر برقی زون 2 |
+| D0  | Digital Output | Relay / Solenoid valve – Zone 2 | رله / شیر برقی زون 2 |
 
 ---
 
